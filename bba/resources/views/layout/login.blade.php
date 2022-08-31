@@ -38,7 +38,7 @@
                     <li class="cursor-pointer">
                         <i class="fa-solid fa-arrow-right-to-bracket mr-3 cursor-pointer"></i>
                         <span class="hover:text-[#1AA2A2] cursor-pointer">
-                            Log In</span>
+                        Log In</span>
                     </li>
                 </ul>
             </div>
